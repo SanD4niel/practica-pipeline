@@ -22,4 +22,4 @@ jobs:
 
       - name: 4. Ejecutar el análisis de código
         # Esta línea revisará app.py en busca de malas prácticas
-        run: flake8 prueba.py
+        run: flake8 app.py
