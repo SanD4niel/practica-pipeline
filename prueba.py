@@ -1,6 +1,5 @@
-import os # 
-def sumar(a,b):
-    return a+b # Falta de espacios alrededor del operador
+def sumar(a, b):
+    return a + b
 
-resultado=sumar(5,10)
+resultado = sumar(5, 10)
 print(resultado)
